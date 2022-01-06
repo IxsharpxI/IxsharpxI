@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align='center'>
   Hi there 👋 I'm Chandler 👨‍💻
 </h1>
@@ -12,7 +10,7 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/chansharp/">
+  <a href="www.linkedin.com/in/chandler-sharp-639377152">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://instagram.com/chansharp147">
